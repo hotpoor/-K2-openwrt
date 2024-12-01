@@ -3,7 +3,7 @@
 
 ## 第一步
 刷入163定制固件
-1. 下载[163固件](k2_163_v18d_breed.bin)
+1. 下载 [163固件](k2_163_v18d_breed.bin)
 2. 登录路由器
 3. 固件升级
 4. 重启以后登陆路由器查看软件版本
@@ -14,7 +14,7 @@
 3. 先备份eeprom：进入breed----固件备份----eeprom----保存到你的硬盘就行了
 4. 强烈建议各位刷机前在breed里恢复出厂设置,否则有可能会导致配置冲突 路由器运行变慢 或者出现一些未知问题
 5. 固件更新----选择固件刷入(此处提供openwrt固件)
-  1) 下载[openwrt固件](9.21openwrt-ramips-mt7620-psg1218a-squashfs-sysupgrade.bin)
+    1. 下载 [openwrt固件](9.21openwrt-ramips-mt7620-psg1218a-squashfs-sysupgrade.bin)
 
 按照步骤上传固件就行了  刷好后系统自动重启  等待2分钟后就行了然后进路由器就好了。
 
